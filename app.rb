@@ -14,7 +14,7 @@ class App < Sinatra::Base
   end
 get '/goodbye/:name' do
   end
-get /multiply/:num1/:num2 do 
-end 
+get /multiply/:num1/:num2 do
+  end
 
 end
